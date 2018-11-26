@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./CommentsLikes.css";
-import App from "../App.js";
 
 class CommentsLikes extends Component {
   render() {
