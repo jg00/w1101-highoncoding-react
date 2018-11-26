@@ -1,0 +1,15 @@
+.comments-likes-div {
+  background-color: orange;
+  padding: 2px;
+  display: flex;
+  font-size: 0.5em;
+}
+
+.comments-likes-div .comments {
+  color: white;
+  padding: 0 10px 0 0;
+}
+
+.comments-likes-div .likes {
+  color: white;
+}

@@ -1,0 +1,8 @@
+.menu-div {
+  background-color: lightskyblue;
+  display: flex;
+}
+
+.menu-div div {
+  padding: 10px;
+}
